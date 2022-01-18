@@ -275,12 +275,12 @@ dbname3 = "localhost","root","2passme4","slc"
 dbname4 = "localhost","root","2passme4","newslc"
 dbname5 = "localhost","root","2passme4","qahm2"
 dbname6 = "util-3.endofdays-2012.dev","jbarker","Titan#112","titan"
+dbname7 = "util-3.endofdays-2012ev","jbarker","Titan#112","titan1"
 dbnameA = "util-3.endofdays-2012.dev","jbarker","Titan#112","titan"
+dbnameB = "util-3.endofdays-2012.dev","jbarker","Titan#112","newslc"
 #dbnameA = "localhost","root","2passme4","titan"
 #dbname6 = "localhost","root","2passme4","titan"
 #dbnameB = "localhost","root","2passme4","newslc"
-dbnameB = "util-3.endofdays-2012.dev","jbarker","Titan#112","newslc"
-dbname7 = "localhost","root","2passme4","titan1"
 	
 
 
